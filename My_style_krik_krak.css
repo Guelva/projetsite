@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100;200;500;600;700&family=Dancing+Script:wght@400;500;600;700&display=swap');
+body {
+    font-family: "Advent pro" sans-serif;
+    padding: 0;
+        margin: 0;}
+li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}   
+ul{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    overflow: hidden;
+     position: fixed;
+     background-color: rgb(115, 197, 245);
+     width: 100%;
+        opacity: 0.9;
+}
+#logo {
+    font-family: 'dancing script', cursive;
+    font-weight: bold;
+    float: left;
+    padding: 18px 16px;
+}
+header li{
+    float: right;
+    size: 1.2em;
+}
+h3{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3em;
+    text-shadow: rgb(0, 0, 0)5px 2px 4px;
+    color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    font-family: 'dancing script', cursive;
+    color: rgb(95, 75, 23);
+   text-shadow: rgb(255, 255, 255) 5px 2px 4px;
+    font-size: 6em;
+    margin-top: 10px;
+}
+h2{
+ text-align: center;
+ font-family: 'dancing script',  Verdana, Geneva, Tahoma, sans-serif;
+ color: rgb(255, 255, 255);
+ text-shadow:rgb(17, 11, 11) 4px 2px 4px  ;
+ font-size: 3em;
+
+
+}
+header li a {
+   text-decoration: none;
+   display: block;
+    text-align: center;
+    padding: 18px 16px;}
+
+
+#imagePrincipal{
+        padding-top: 50px;
+        background: url(MEDIA_5/Krik_Krak_1.jpg) no-repeat fixed  50% 50%;
+        background-size: cover;
+        height: 799px;
+    }
+    #se1{
+        text-align: center;
+        padding-top: 60px;
+        padding: 10px;
+        background-color: bisque;
+        width: 40% 40%;
+        padding:20px 0px; 
+    }
+#se1 h2{
+        text-align: center;
+        padding-top: 15px;
+     font-family: 'cusive';
+     color: aliceblue;
+     text-shadow: rgb(0, 0, 0) 15x 5px 15px;
+}
+#se1 h2{
+    margin-top: 10px;
+    padding: 5px;;
+}
+#se1 p{ 
+    text-align: center;
+    margin: 0 25%;
+    
+}
+#tag{
+text-align: right;
+}
+#se2{
+    background: url(media_6/Degrader\ bcground.jpg) ;
+    padding: 210px;
+    text-align: center;
+    padding-top: 60px;
+}
+#anli{
+    font-family: 'dancing script', cursive;
+    font-size: 3em;
+}
+img{
+    align-items: center;
+    box-shadow: rgb(0, 0, 0) 15px 5px 15px;
+    height: 50px;
+    width: 50px;
+}
